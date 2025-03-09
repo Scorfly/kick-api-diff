@@ -5,7 +5,7 @@ A small go script scrapping KICK API and warn on a Discord channel (using webhoo
 ## Run
 
 ```
-$ go runn main.go -discord=https://discord.com/api/webhooks/xxxxxx
+$ go run main.go -discord=https://discord.com/api/webhooks/xxxxxx
 ```
 
 ### Discord webhook
